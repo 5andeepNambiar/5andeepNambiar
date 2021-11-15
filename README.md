@@ -1,4 +1,4 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < World/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on API's.
 
-- 🌱 I’m currently learning Java,html,css and javascript.
+- 🌱 I’m currently learning about Frontend development.
 
 - 👯 I’m looking to collaborate on Projects.
 
@@ -24,6 +24,8 @@
 <a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+ <a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
   
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sandeep-nambiar-794a35225/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -33,7 +35,7 @@
 
 <br>
 <br>
-  <br>
+<br>
 
 | ![5andeepNambiar's github stats](https://github-readme-stats.vercel.app/api?username=5andeepNambiar&show_icons=true&theme=tokyonight) | ![5andeepNambiar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5andeepNambiar&theme=tokyonight) |
 | --- | --- |
