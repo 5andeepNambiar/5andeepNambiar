@@ -8,10 +8,8 @@
 
 <div size='20px'> Hi! My name is Sandeep Prem Nambiar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-  
-- 🔭 I’m currently working on API's.
 
-- 🌱 I’m currently learning about Frontend development.
+- 🌱 I’m currently learning about Java development.
 
 - 👯 I’m looking to collaborate on Projects.
 
