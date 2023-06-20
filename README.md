@@ -30,14 +30,3 @@
 <a href = 'https://www.twitter.com/SandeepNambia13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/sandeep_nambiar_/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://sandeepnambiar02.wordpress.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg"/></a> 
-
-<br>
-<br>
-<br>
-
-| ![5andeepNambiar's github stats](https://github-readme-stats.vercel.app/api?username=5andeepNambiar&show_icons=true&theme=tokyonight) | ![5andeepNambiar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5andeepNambiar&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5andeepNambiar&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=5andeepNambiar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-<br>
