@@ -1,32 +1,56 @@
-<h1> Hello < World/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Sandeep Nambiar
 
-  
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=5andeepNambiar.5andeepNambiar)
-[![Github](https://img.shields.io/github/followers/5andeepNambiar?label=Follow&style=social)](https://github.com/5andeepNambiar)
+Backend & Distributed Systems Engineer
 
-<div size='20px'> Hi! My name is Sandeep Prem Nambiar. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+Software Engineer at Copart India Technology Centre building scalable enterprise applications using Java, Spring Boot, Angular, Kafka, PostgreSQL, Redis, and cloud-native infrastructure.
 
-- 🌱 I’m currently learning about Java development.
+Former security researcher at Team bi0s with interests in distributed systems, platform engineering, AI-powered infrastructure, and backend scalability.
 
-- 👯 I’m looking to collaborate on Projects.
+---
 
-- 💬 Talk to me about Python, JavaScript , Java, Freelancing Opportunites.
+## Engineering Focus
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
- <a href= https://github.com/5andeepNambiar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-  
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/sandeep-nambiar-794a35225/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/SandeepNambia13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.instagram.com/sandeep_nambiar_/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://sandeepnambiar02.wordpress.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg"/></a> 
+- Distributed Systems
+- Event-Driven Architecture
+- Backend Infrastructure
+- API Platform Engineering
+- Performance Optimization
+- Scalable Microservices
+- AI-Powered Security Systems
+
+---
+
+## Tech Stack
+
+### Backend
+Java • Spring Boot • Python • FastAPI • Kafka • REST APIs • Redis • PostgreSQL
+
+### Infrastructure
+Docker • Jenkins • Spinnaker • CI/CD • Microservices • Distributed Systems
+
+### Frontend
+Angular • TypeScript
+
+---
+
+## Featured Projects
+
+### Distributed Link Platform
+High-scale URL shortening platform supporting analytics, caching, distributed ID generation, rate limiting, and event-driven click processing.
+
+Tech:
+Java • Spring Boot • Kafka • Redis • PostgreSQL • Docker
+
+---
+
+### API Security Analyzer
+Static and runtime API security analysis platform for detecting authentication flaws, insecure configurations, and API attack vectors.
+
+Tech:
+Python • FastAPI • OWASP Testing • Security Automation
+
+---
+
+## Engineering Interests
+
+Distributed Systems • Platform Engineering • Scalability • Reliability • Infrastructure • Observability • Security Engineering
