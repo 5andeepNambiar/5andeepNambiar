@@ -1,56 +1,72 @@
 # Sandeep Nambiar
 
-Backend & Distributed Systems Engineer
+Backend & Distributed Systems Engineer ⚙️
 
-Software Engineer at Copart India Technology Centre building scalable enterprise applications using Java, Spring Boot, Angular, Kafka, PostgreSQL, Redis, and cloud-native infrastructure.
+Software Engineer at Copart India Technology Centre building scalable enterprise applications using Java, Spring Boot, Kafka, PostgreSQL, Redis, Docker, and distributed microservice architectures.
 
-Former security researcher at Team bi0s with interests in distributed systems, platform engineering, AI-powered infrastructure, and backend scalability.
-
----
-
-## Engineering Focus
-
+Former security researcher at Team bi0s with interests in:
 - Distributed Systems
-- Event-Driven Architecture
 - Backend Infrastructure
-- API Platform Engineering
-- Performance Optimization
-- Scalable Microservices
-- AI-Powered Security Systems
+- Platform Engineering
+- AI-Powered Systems
+- Security Engineering
+- Scalable APIs
 
 ---
 
-## Tech Stack
+## ⚡ Engineering Focus
+
+🔹 Distributed Systems  
+🔹 Event-Driven Architecture  
+🔹 Backend Scalability  
+🔹 API Platform Engineering  
+🔹 Performance Optimization  
+🔹 Infrastructure & Reliability  
+🔹 AI + Security Systems
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-Java • Spring Boot • Python • FastAPI • Kafka • REST APIs • Redis • PostgreSQL
+Java • Spring Boot • Python • FastAPI • REST APIs • Kafka
 
-### Infrastructure
-Docker • Jenkins • Spinnaker • CI/CD • Microservices • Distributed Systems
+### Data & Infrastructure
+PostgreSQL • Redis • Docker • Jenkins • Spinnaker
 
 ### Frontend
 Angular • TypeScript
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Distributed Link Platform
-High-scale URL shortening platform supporting analytics, caching, distributed ID generation, rate limiting, and event-driven click processing.
+High-scale URL shortening platform supporting:
+- Distributed ID generation
+- Redis caching
+- Kafka analytics pipelines
+- Rate limiting
+- Clickstream processing
+- Async event ingestion
 
 Tech:
 Java • Spring Boot • Kafka • Redis • PostgreSQL • Docker
 
 ---
 
-### API Security Analyzer
-Static and runtime API security analysis platform for detecting authentication flaws, insecure configurations, and API attack vectors.
+### AI-Powered Threat Detection Platform
+AI-driven security analysis system for:
+- anomaly detection
+- behavioral analysis
+- automated threat classification
+- event correlation
 
 Tech:
-Python • FastAPI • OWASP Testing • Security Automation
+Python • FastAPI • Kafka • Redis • PostgreSQL
 
 ---
 
-## Engineering Interests
+## 📈 Engineering Interests
 
-Distributed Systems • Platform Engineering • Scalability • Reliability • Infrastructure • Observability • Security Engineering
+Distributed Systems • Scalability • Reliability • Platform Engineering • Infrastructure • Observability • Security Research
